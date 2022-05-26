@@ -1,0 +1,8 @@
+voila
+jupyter
+numpy
+matplotlib
+IPython
+fuzzywuzzy
+python-Levenshtein
+ipywidgets
